@@ -25,6 +25,5 @@ A simple machine learning project that classifies SMS messages as **spam** or **
 Just open the notebook in Google Colab and run the cells to train and test the model.
 
 ## 🔗 Demo
-[Open in Colab](https://colab.research.google.com/drive/https://colab.research.google.com/
-drive/1lezDpJIxze0Mk4zo3UueXK1-G3zsci4L?usp=sharing)
+[Open in Colab](https://colab.research.google.com/drive/https://colab.research.google.com/drive/1lezDpJIxze0Mk4zo3UueXK1-G3zsci4L?usp=sharing)
 
